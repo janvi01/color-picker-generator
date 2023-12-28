@@ -1,0 +1,24 @@
+{
+  "name": "color-picker-generator",
+  "version": "1.0.0",
+  "description": "Generate random or predefined colors in RGB or HEX format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janvi01/color-picker-generator.git"
+  },
+  "keywords": [
+    "color",
+    "picker",
+    "generator"
+  ],
+  "author": "Janvi Bajoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janvi01/color-picker-generator/issues"
+  },
+  "homepage": "https://github.com/janvi01/color-picker-generator#readme"
+}
